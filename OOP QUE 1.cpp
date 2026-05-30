@@ -1,3 +1,7 @@
+//Stacy Kinya// //week2//
+//BCS-05-0060/2025//
+//A c++ program that awards scholarship based on marks and attendance//
+
 #include <iostream>
 #include <string>
 using namespace std;
