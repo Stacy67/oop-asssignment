@@ -1,3 +1,7 @@
+//Stacy kinya// //week 2//
+//BCS-05-0060/2025//
+//A c++ program that calculates the fine for ovrdue library books//
+
 #include <iostream>
 using namespace std;
 
